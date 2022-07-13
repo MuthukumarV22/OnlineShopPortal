@@ -1,0 +1,30 @@
+﻿Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:04.7109288.
+Generating the model took 00:00:05.4112083.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:01.4865562.
+Generating the model took 00:00:08.1373900.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:01.1914285.
+Generating the model took 00:00:08.2135833.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:01.0593736.
+Generating the model took 00:00:02.6852679.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:01.2064123.
+Generating the model took 00:00:03.0507528.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:01.0277521.
+Generating the model took 00:00:02.2219866.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:01.0356149.
+Generating the model took 00:00:02.6827154.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:01.2374880.
+Generating the model took 00:00:03.6592351.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:01.0976094.
+Generating the model took 00:00:02.2449736.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:00.9671641.
+Generating the model took 00:00:00.6089002.
